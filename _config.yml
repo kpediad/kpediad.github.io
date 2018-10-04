@@ -1,11 +1,11 @@
 # Site settings
-author: Konstantinos Pediaditakis
-title: 
+author: KP
+title: Stories of the late night programmer
 header-img: img/home-bg.png
 email: pediadk@gmail.com
-copyright_name: Konstantinos Pediaditakis
+copyright_name: KP
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A collection of short horror stories in the realm of coding... 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kpediad
