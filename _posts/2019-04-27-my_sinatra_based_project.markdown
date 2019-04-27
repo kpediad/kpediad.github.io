@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Sinatra based project"
-date:       2019-04-27 10:36:13 +0000
+date:       2019-04-27 06:36:14 -0400
 permalink:  my_sinatra_based_project
 ---
 
@@ -17,6 +17,8 @@ But I do not see why I need to let the world know about this. Or about my experi
 To be fair, I understand that by detailing errors and their resolution as well as solutions to various challenges faced can give tremendous help to another fellow programmer that may be looking for a solution to a specific problem. However, I believe that this is something that more experienced coders should do, whenever they feel that they have applied a very elegant solution to a problem that arises often, in order to give back to the community.
 
 I will never stop feeling that this should be completely optional. For me learning and all my life experiences in general, is a very personal thing. It is for me and me alone! For exactly the same reason, I have chosen NOT to start a personal account on Facebook or any other social media. Therefore, do not be surprised if you see this exact same text in all of my following project blog posts, with just a different title.
+
+My Sinatra based project: [DeviceTrack](https://github.com/kpediad/DeviceTrack)
 
 Enjoy!
 
