@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Rails Portfolio Project rant"
-date:       2019-05-18 09:27:48 +0000
+date:       2019-05-18 05:27:49 -0400
 permalink:  rails_portfolio_project_rant
 ---
 
 
 Welcome to another completely useless blog post that I need to do in order to progress with the learn.co material. In my previous [blog post](https://kpediad.github.io/my_sinatra_based_project) I complained about how nowadays is considered necessary to blog about any software project you may undertake. Again do not get me wrong, I understand that online schools need a way to keep you engaged with the activity so that you don't drop out. This is also a very good way of letting off some steam after the daily frustrations of learning a new skill, especially if you are undergoing an immersive style course. Moreover, there is also the hope that you will make a good impression on your future potential employers, when they search for you online and find out how extremely interested you are in programming, since you are willing to sacrifice more of your personal time, not only to put those final touches on your project but also to blog and tell the world about it and your experiences throughout.
 
-In order to turn this blog post  into something that I believe may be of some use in the end, I want to share my experience on why I left academia after a not so great research degree (MPhil) experience about 15 years ago. I got my degree in the end and I also worked as a part time teaching / research assistant at my university department. Although when I started the program I was really hopefully and willing to consider pursuing an academic career, by the time I had finished I did not want anything to do with academia anymore and the way academic research was conducted at that time and place that I happened to come in contact with it.
+In order to turn this blog post  into something that I believe may be of some use in the end, I want to share my experience on why I left academia after a not so great research degree (MPhil) experience about 15 years ago. I got my degree in the end and I also worked as a part time teaching / research assistant at my university department. Although when I started the program I was really willing to consider pursuing an academic career, by the time I had finished I did not want anything to do with academia anymore and the way academic research was conducted at that time and place that I happened to come in contact with it.
 
 Some of you may already be familiar with the academic term ['publish or perish'](https://en.wikipedia.org/wiki/Publish_or_perish). Before I start though, let me set the context of the story first. There is me with a BSc in computer science from a decent UK university, (I will not give you the name, however suffice to say it has always been in the top 50 universities in the world whichever universities ranking list you may choose) having been offered an all fees paid scholarship from the university department to pursue academic research in the area of [temporal data mining](https://www.sciencedirect.com/topics/computer-science/temporal-data-mining). 
 
